@@ -437,7 +437,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #fh5co-media-section, #fh5co-intro-section, #fh5co-contact-section, 
-#fh5co-product-section, .about-section {
+#fh5co-blog-section, .about-section {
 	padding-bottom: 8em;
 	@media screen and (max-width: $screen-sm) {
 		padding-bottom: 3em;
@@ -642,8 +642,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 // Product
-#fh5co-product-section{
-	.product-inner{
+#fh5co-blog-section{
+	.blog-inner{
 		margin-bottom: 7em;
 		float: left;
 		width: 100%;
