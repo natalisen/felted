@@ -815,4 +815,6 @@ input[type="text"] {
 .list-unstyled {
     font-size: 14px;
 }
-
+.avatar{
+    float: right;
+}
